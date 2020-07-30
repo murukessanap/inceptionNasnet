@@ -5,7 +5,7 @@ https://drive.google.com/file/d/1DXvg3UW9V8IznDC280l8zGMdbPCz8Tty/view?usp=shari
 
 To test:
 
-To test the model you can unzip test_selected.zip and refer the path to it in the InceptionNasnet_test.py file.
+To test the model you can unzip test_selected.zip and refer the path to it in the InceptionNasnet_test.py file. Download weights and set weight file path also.
 Run the file using the command
 
 python InceptionNasnet_test.py
