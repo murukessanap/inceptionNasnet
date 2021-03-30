@@ -75,7 +75,7 @@ pycparser==2.20
 pydicom==2.0.0
 pydot==1.4.1
 pyglet==1.5.0
-Pygments==2.6.1
+Pygments==2.7.4
 pyOpenSSL==19.1.0
 pyparsing==2.4.6
 pyrasite==2.0
